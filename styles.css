@@ -1,0 +1,19 @@
+/* Colour Pallete #8ecae6 // #219ebc // #023047 // #ffb703 // #fb8500 */
+.bg-1 {
+    background-color: #d5e1e7;
+}
+
+.nav-color {
+    background-color: #023047;
+}
+
+.icon-container img {
+    width: 32px;
+    height: 32px;
+    vertical-align: middle; /* Ensures that icons and images align with text if mixed together */
+  }
+
+/* Custom card styles */
+.card {
+    margin: 8px
+}
